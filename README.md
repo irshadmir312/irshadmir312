@@ -1,4 +1,4 @@
-
+![logo](https://github.com/irshadmir312/irshadmir312/blob/main/Screenshot%202025-01-14%20at%2012.01.06%20AM.png)
 <h1 align="center">Hi 👋, I'm Irshad Majeed Mir</h1>
 <h3 align="center">A passionate Data Scientist and Full Stack Developer from india</h3>
 
